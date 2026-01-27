@@ -1,0 +1,27 @@
+material_code,material_name,category,subcategory,unit_of_measure,standard_price,min_stock_level,current_stock,reorder_point,lead_time_days,gmp_required,storage_condition,supplier_count,last_purchase_date,criticality
+RAW-001,Amoxicillin Trihydrate,Raw Material,Active Pharmaceutical Ingredient,KG,150000,364,1651,418,21,Yes,Room Temperature,4,2024-01-26,High
+RAW-002,Paracetamol,Raw Material,Active Pharmaceutical Ingredient,KG,87000,648,1453,633,18,Yes,Room Temperature,2,2024-02-04,High
+RAW-003,Ascorbic Acid (Vitamin C),Raw Material,Active Pharmaceutical Ingredient,KG,45000,355,2503,577,14,Yes,2-8°C,3,2024-01-28,Medium
+RAW-004,Ibuprofen,Raw Material,Active Pharmaceutical Ingredient,KG,205000,706,1515,849,14,Yes,Room Temperature,4,2024-01-25,High
+RAW-005,Cetirizine HCl,Raw Material,Active Pharmaceutical Ingredient,KG,3000000,646,2028,712,21,Yes,15-25°C,5,2024-01-18,Medium
+RAW-006,Metformin HCl,Raw Material,Active Pharmaceutical Ingredient,KG,73000,679,1855,673,21,Yes,15-25°C,2,2024-01-05,High
+RAW-007,Omeprazole,Raw Material,Active Pharmaceutical Ingredient,KG,2000000,669,1980,985,10,Yes,2-8°C,3,2023-12-31,Medium
+RAW-008,Ciprofloxacin,Raw Material,Active Pharmaceutical Ingredient,KG,450000,631,2002,868,18,Yes,2-8°C,4,2024-02-11,Medium
+RAW-009,Salbutamol Sulfate,Raw Material,Active Pharmaceutical Ingredient,KG,920000,373,2029,811,14,Yes,2-8°C,4,2024-01-11,Medium
+RAW-010,Dexamethasone,Raw Material,Active Pharmaceutical Ingredient,KG,350000,635,706,684,18,Yes,15-25°C,5,2024-02-03,Low
+EXC-001,Microcrystalline Cellulose (Avicel PH102),Excipient,Binder,KG,25000,431,1771,1308,10,Yes,Room Temperature,2,2024-01-01,Medium
+EXC-001,Magnesium Stearate,Excipient,Disintegrant,KG,35000,845,1827,1139,10,Yes,Room Temperature,3,2024-01-15,Low
+EXC-001,Povidone K30,Excipient,Filler,KG,63000,557,3816,573,14,Yes,Room Temperature,4,2024-01-06,Medium
+EXC-001,Croscarmellose Sodium,Excipient,Binder,KG,135000,273,2832,1114,10,Yes,Room Temperature,4,2024-01-01,Medium
+EXC-001,Lactose Monohydrate,Excipient,Filler,KG,21000,470,1628,869,7,Yes,Room Temperature,2,2024-02-17,Low
+EXC-001,Starch (Pregelatinized),Excipient,Lubricant,KG,18000,493,1845,708,7,Yes,Room Temperature,2,2024-01-27,Low
+EXC-001,Talcum Powder,Excipient,Binder,KG,15000,480,3478,1263,7,Yes,Room Temperature,3,2024-01-23,Low
+EXC-001,Colloidal Silicon Dioxide,Excipient,Disintegrant,KG,200000,626,2322,1479,14,Yes,Room Temperature,2,2024-02-04,Low
+PKG-001,PVC/PVDC Blister Pack 10x10,Packaging,Primary Packaging,Unit,500,6861,8073,7750,5,No,Room Temperature,6,2024-02-04,High
+PKG-002,Aluminum Foil Strip (Cold Form),Packaging,Secondary Packaging,Roll,125000,93,163,105,10,No,Room Temperature,3,2024-02-06,Medium
+PKG-003,HDPE Bottle 100ml,Packaging,Primary Packaging,Unit,3000,7299,20485,8023,7,No,Room Temperature,6,2024-01-25,Medium
+PKG-004,Glass Vial 10ml,Packaging,Primary Packaging,Unit,5000,5452,23936,15904,5,No,Room Temperature,4,2024-01-07,Medium
+PKG-005,Corrugated Carton Box (Master),Packaging,Secondary Packaging,Unit,3500,13858,8441,8965,7,No,Room Temperature,6,2024-01-14,Low
+PKG-006,Aluminum Screw Cap 28mm,Packaging,Secondary Packaging,Unit,900,5646,12628,16211,7,No,Room Temperature,6,2024-01-17,Low
+PKG-007,Desiccant Silica Gel 1g,Packaging,Secondary Packaging,Unit,200,10661,21939,8658,7,No,Room Temperature,6,2024-01-28,Low
+PKG-008,Leaflet (Patient Information),Packaging,Secondary Packaging,Unit,110,10989,15879,13357,5,No,Room Temperature,4,2024-02-20,Medium

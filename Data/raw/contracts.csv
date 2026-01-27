@@ -1,0 +1,6 @@
+contract_id,supplier_id,supplier_name,contract_type,start_date,end_date,material_category,annual_commitment_idr,price_escalation_clause,payment_terms,auto_renewal,status,negotiated_by,expiry_alert_days
+CNT-2024-01,SUP-004,PT Kalbe Farma,Framework Agreement,2024-03-01,2024-12-31,Raw Material,12700592505,Variable - market rate with 30-day notice,Net 30,No,Active,Procurement Head,30
+CNT-2024-02,SUP-005,PT Phapros,Long-term Agreement,2024-03-01,2026-03-01,Raw Material,3748668660,Fixed for contract period,Net 30,Yes,Active,Procurement Head,90
+CNT-2024-03,SUP-006,PT Indo Packaging Solutions,Framework Agreement,2023-06-01,2025-03-28,Packaging,12944206210,Max 5% per quarter based on market index,Net 30,Yes,Active,Director,60
+CNT-2024-04,SUP-007,PT Multi Packaging Indonesia,Annual Supply Agreement,2024-02-01,2024-12-31,Packaging,3710393324,Variable - market rate with 30-day notice,Net 45,Yes,Active,Director,30
+CNT-2024-05,SUP-009,PT Prima Pack Indonesia,Annual Supply Agreement,2024-03-01,2024-12-31,Packaging,14690891808,Max 5% per quarter based on market index,Net 45,No,Active,Procurement Manager,90
